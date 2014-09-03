@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "tape tests/*.js"
   },
   "devDependencies": {
     "jsdom": ">=1.0.0-pre6",

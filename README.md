@@ -9,8 +9,7 @@ Vaguely similar to React's DOM bits.
 Example:
 --------
 
-    var domicile = require('domicile').Dom
-    var D = new domicile.Dom()
+    var D = require('domicile').D
 
     var todo = [
         {id: 3, done: false, task: "Buy milk"},

@@ -1,7 +1,7 @@
 var test = require('tape')
 document = require("jsdom").jsdom()
 
-var Dom = require('../index.js').Dom
+var Dom = require('../lib/dom.js').Dom
 
 
 test('Element tests', function (t) {

@@ -1,7 +1,5 @@
-var Dom = require('./index.js').Dom
+var D = require('./index.js').D
 var Element = require('./lib/element.js').Element
-
-var D = new Dom()
 
 var login = new Element('form', {method: 'POST', action: '#'}
   , new Element('input', {'type': 'text', 'id': 'login_username', 'class': 'big'})
