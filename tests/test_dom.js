@@ -4,7 +4,7 @@ document = require("jsdom").jsdom()
 var Dom = require('../lib/dom.js').Dom
 
 
-test('Element tests', function (t) {
+test('Dom tests', function (t) {
   var D = new Dom()
 
   var todo = [
