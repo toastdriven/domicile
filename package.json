@@ -1,0 +1,32 @@
+{
+  "name": "domicile",
+  "version": "0.0.1",
+  "description": "Programmatic creation of DOM elements. Vaguely similar to React's DOM bits.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "devDependencies": {
+    "jsdom": ">=1.0.0-pre6",
+    "browserify": "5.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toastdriven/domicile"
+  },
+  "keywords": [
+    "dom",
+    "html",
+    "nodes",
+    "api"
+  ],
+  "author": "Daniel Lindsley",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/toastdriven/domicile/issues"
+  },
+  "homepage": "https://github.com/toastdriven/domicile"
+}
