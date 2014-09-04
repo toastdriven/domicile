@@ -1,6 +1,6 @@
 {
   "name": "domicile",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Programmatic creation of DOM elements. Vaguely similar to React's DOM bits.",
   "main": "index.js",
   "directories": {
